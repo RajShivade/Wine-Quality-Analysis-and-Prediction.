@@ -145,3 +145,7 @@ cd wine-quality-analysis
 ```
 
 ## Output:
+
+
+https://github.com/user-attachments/assets/45e791b9-658e-4ad3-bfbd-cdb8125b0397
+
