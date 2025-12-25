@@ -1,11 +1,11 @@
-# 🍷 Wine Quality Analysis & Prediction (ML + Streamlit):
+# 🍷 Wine Quality Analysis & Prediction (ML + Streamlit):-
 
 End-to-end machine learning project to **analyze** and **predict wine quality** using physicochemical properties of wines.  
 The project includes:
 
-- Exploratory Data Analysis (EDA)
-- Multiple classification models with performance comparison
-- An interactive **Streamlit web app** to predict wine quality for new samples
+- Exploratory Data Analysis (EDA).
+- Multiple classification models with performance comparison.
+- An interactive **Streamlit web app** to predict wine quality for new samples.
 
 ---
 
@@ -15,9 +15,9 @@ Given the physicochemical properties of red and white wines (such as acidity, al
 the goal is to **predict the quality score** (`quality`, integer) on a 0–10 scale.
 
 This can help:
-- Winemakers quickly estimate wine quality
-- Businesses maintain quality control
-- Data science learners practice an end-to-end ML workflow
+- Winemakers quickly estimate wine quality.
+- Businesses maintain quality control.
+- Data science learners practice an end-to-end ML workflow.
 
 ---
 
@@ -41,10 +41,10 @@ Numeric features:
 - `alcohol`
 
 Categorical / engineered features:
-- `good` – binary label indicating if the wine is considered good (yes/no)
-- `color` – wine type (`red` / `white`)
-- `quality` – **target variable** (integer quality score)
-- `quality_category` – helper label (e.g., "Low", "Medium", "High") used for analysis
+- `good` – binary label indicating if the wine is considered good (yes/no).
+- `color` – wine type (`red` / `white`.)
+- `quality` – **target variable** (integer quality score).
+- `quality_category` – helper label (e.g., "Low", "Medium", "High") used for analysis.
 
 > Note: An index column like `Unnamed: 0` is dropped during preprocessing.
 
