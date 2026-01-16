@@ -144,6 +144,13 @@ cd wine-quality-analysis
 
 ```
 
+## 👨‍💻 Author :-
+
+**Raj Shivade**  
+📘 [LinkedIn](http://www.linkedin.com/in/raj-shivade25)  
+💻 [GitHub](https://github.com/RajShivade)
+
+
 ## Output:
 
 
