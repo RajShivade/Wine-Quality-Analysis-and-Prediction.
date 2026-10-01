@@ -1,4 +1,4 @@
-# 🍷 Wine Quality Analysis & Prediction (ML + Streamlit):-
+# 🍷 Wine Quality Analysis & Prediction (ML + Streamlit) :-
 
 End-to-end machine learning project to **analyze** and **predict wine quality** using physicochemical properties of wines. 
 The project includes:
@@ -124,7 +124,7 @@ The Streamlit app (`streamlit_app.py`) provides a full interactive interface wit
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack:
 
 - **Language**: Python
 - **Web App**: Streamlit
